@@ -4,7 +4,7 @@
 Welcome to my GitHub portfolio! I specialize in **Python Scripts Development** with a strong focus on building scalable and insightful data solutions. Here, you’ll find a collection of projects that showcase my skills in Python Applications, automations.
 
 <div align="center">
-  <img src='src/output.png' width="500" height="500"/>
+  <img src='src/shail.png' width="500" height="500"/>
 </div>
 
 ---
