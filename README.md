@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @Shaillaja
+#  👋 Hi, I’m @Shaillaja
 
 
 Welcome to my GitHub portfolio! I specialize in **Python Scripts Development** with a strong focus on building scalable and insightful data solutions. Here, you’ll find a collection of projects that showcase my skills in Python Applications and IOS Applications.
