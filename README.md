@@ -47,6 +47,6 @@ This project is a **Flask-based Authentication and Authorization System** that e
 
 Currently, I'm student and an aspiring **Software Developer** [LinkedIn](https://www.linkedin.com/in/shaillaja-ravi-9ab0642a9/)!
 
-- 🎯 Passionate about building real-time applications web development.
-- 📚 Currentle learning Python, C#, Swift and Database management.
-- 🚀 Working on projects like a **Password Manager** , **Flask-app for User    Login** and various other projects.
+- 🎯 Passionate about building real-time applications, web development.
+- 📚 Currently learning Python, C#, Swift and Database management.
+- 🚀 Working on projects like a **Password Manager** , **Flask-app for User Login** and various other projects.
