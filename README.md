@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m @Shaillaja
 
 
-Welcome to my GitHub portfolio! I specialize in **Python Scripts Development** with a strong focus on building scalable and insightful data solutions. Here, you’ll find a collection of projects that showcase my skills in Python Applications, automations.
+Welcome to my GitHub portfolio! I specialize in **Python Scripts Development** with a strong focus on building scalable and insightful data solutions. Here, you’ll find a collection of projects that showcase my skills in Python Applications and IOS Applications.
 
 <div align="center">
   <img src='src/shail.png' width="500" height="500"/>
@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development** w
 ### 💻 Programming Languages & Tools
 
 <div align="center">
-<img src="src/python.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/PyCharm.svg" width="50" height="40"> 
+<img src="src/python.svg" width="50" height="40"> <img src="src/c-sharp.svg" width="50" height="40"> <img src="src/swift.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/PyCharm.svg" width="50" height="40"> 
 </div>
 
 ### Database
